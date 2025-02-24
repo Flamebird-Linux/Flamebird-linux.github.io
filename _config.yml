@@ -1,11 +1,11 @@
-title: Future Linux
-description: An Future Linux Distribution for Creatives Everywhere :)
-url: "https://futurelinux.github.io"
-username: Future Linux
-user_description: Future Linux is a rolling-release distribution aimed at Creative Multi-Media and Gaming Enthusiasts.
-user_title: An Future Linux Operating System
-email: future_linux@163.com
-github_username:  futurelinux
+title: Flamebird Linux
+description: An Flamebird Linux Distribution for Creatives Everywhere :)
+url: "https://Flamebird-linux.github.io"
+username: Flamebird Linux
+user_description: Flamebird Linux is a rolling-release distribution aimed at Creative Multi-Media 和 Gaming Enthusiasts.
+user_title: An Flamebird Linux Operating System
+email: xhaa123@outlook.com
+github_username:  Flamebird-linux
 show_downloads: true
 google_analytics:
 exclude: ['package.json', 'src' , 'node_modules', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
