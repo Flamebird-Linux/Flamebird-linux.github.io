@@ -1,11 +1,11 @@
-title: FlarebirdOS
-description: An FlarebirdOS Distribution for Creatives Everywhere :)
+title: Flarebird OS
+description: An Flarebird OS Distribution for Creatives Everywhere :)
 url: "https://FlarebirdOS.github.io"
-username: FlarebirdOS
-user_description: FlarebirdOS is a rolling-release distribution aimed at Creative Multi-Media 和 Gaming Enthusiasts.
-user_title: An FlarebirdOS Operating System
+username: Flarebird OS
+user_description: Flarebird OS is a rolling-release distribution aimed at Creative Multi-Media 和 Gaming Enthusiasts.
+user_title: An Flarebird OS Operating System
 email: xhaa123@outlook.com
-github_username:  FlarebirdOS
+github_username:  Flarebird OS
 show_downloads: true
 google_analytics:
 exclude: ['package.json', 'src' , 'node_modules', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
