@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "FlarebirdOS Team",
+  "author": "Flarebird Linux Team",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.26.3",
